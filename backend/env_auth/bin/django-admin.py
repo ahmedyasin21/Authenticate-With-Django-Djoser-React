@@ -1,4 +1,4 @@
-#!/home/aa/Desktop/auth_self_learning/backend/env_auth/bin/python
+#!/home/aa/fullstack_projects/auth_self_learning/backend/env_auth/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

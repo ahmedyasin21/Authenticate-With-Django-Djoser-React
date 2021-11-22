@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/home/aa/Desktop/auth_self_learning/backend/env_auth'
+set -gx VIRTUAL_ENV '/home/aa/fullstack_projects/auth_self_learning/backend/env_auth'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

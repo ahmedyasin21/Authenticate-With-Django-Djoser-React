@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/aa/Desktop/auth_self_learning/backend/env_auth"
+$VIRTUAL_ENV = r"/home/aa/fullstack_projects/auth_self_learning/backend/env_auth"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
